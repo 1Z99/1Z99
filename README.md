@@ -1,6 +1,6 @@
-### Hi Human 👽 
+### Human 👽 
 
-You are talking with NAWZAT, An evil soul wants to become a Fullstack web developer to rule the world 👩‍💻 
+You are talking with Nawzat, An evil soul wants to become a Full Stack web developer to rule the world👩‍💻 
 
 - What technologys i'm Aiming to learn :  
     <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
