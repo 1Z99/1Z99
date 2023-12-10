@@ -1,4 +1,4 @@
-### Hey! 👽 
+### Hey! 
 
 Name : Nawzat 
 Age : 25
