@@ -1,8 +1,8 @@
 ### Human 👽 
 
-You are talking with Nawzat, An evil soul wants to become a Full Stack web developer to rule the world👩‍💻 
+Nawzat 25, Location : Germany.
 
-- What technologys i'm Aiming to learn :  
+- What technologys i'm learning :  
     <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -15,4 +15,4 @@ You are talking with Nawzat, An evil soul wants to become a Full Stack web devel
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     </p>
     
-- 😈 I’m currently focusing on JS and React then i will wrap it up with Solidity to become a blockchain Developer (ETH)
+- 😈 I’m currently focusing on JS and React
