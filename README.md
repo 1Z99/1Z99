@@ -1,8 +1,8 @@
 ### Hey! 
 
-Name : Nawzat 
-Age : 25
-Location : Germany
+Name : Nawzat,
+Age : 25,
+Location : Germany.
 
 - What technologys i'm learning :  
     <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -17,4 +17,4 @@ Location : Germany
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     </p>
     
-- 😈 I’m currently focusing on JS and React
+  - I’m currently focusing on JS and React
